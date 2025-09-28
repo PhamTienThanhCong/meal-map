@@ -1,0 +1,1884 @@
+[
+    {
+        "id": 217,
+        "name": "TP. HCM",
+        "longitude": 106.629664,
+        "districts": [
+            {
+                "id": 1,
+                "name": "Quận 1",
+                "url_rewrite_name": "quan-1",
+                "latitude": 10.773242,
+                "longitude": 106.705287
+            },
+            {
+                "id": 2,
+                "name": "Gò Vấp",
+                "url_rewrite_name": "quan-go-vap",
+                "latitude": 10.833306,
+                "longitude": 106.671007
+            },
+            {
+                "id": 4,
+                "name": "Quận 2",
+                "url_rewrite_name": "quan-2",
+                "latitude": 10.806792,
+                "longitude": 106.744527
+            },
+            {
+                "id": 5,
+                "name": "Quận 3",
+                "url_rewrite_name": "quan-3",
+                "latitude": 10.778969,
+                "longitude": 106.692556
+            },
+            {
+                "id": 6,
+                "name": "Quận 4",
+                "url_rewrite_name": "quan-4",
+                "latitude": 10.760614,
+                "longitude": 106.699829
+            },
+            {
+                "id": 7,
+                "name": "Quận 5",
+                "url_rewrite_name": "quan-5",
+                "latitude": 10.757467,
+                "longitude": 106.673387
+            },
+            {
+                "id": 8,
+                "name": "Quận 6",
+                "url_rewrite_name": "quan-6",
+                "latitude": 10.739085,
+                "longitude": 106.623666
+            },
+            {
+                "id": 9,
+                "name": "Quận 7",
+                "url_rewrite_name": "quan-7",
+                "latitude": 10.72468,
+                "longitude": 106.7197
+            },
+            {
+                "id": 10,
+                "name": "Quận 8",
+                "url_rewrite_name": "quan-8",
+                "latitude": 10.739327,
+                "longitude": 106.656282
+            },
+            {
+                "id": 11,
+                "name": "Quận 9",
+                "url_rewrite_name": "quan-9",
+                "latitude": 10.805949,
+                "longitude": 106.778398
+            },
+            {
+                "id": 12,
+                "name": "Quận 10",
+                "url_rewrite_name": "quan-10",
+                "latitude": 10.776259,
+                "longitude": 106.677499
+            },
+            {
+                "id": 13,
+                "name": "Quận 11",
+                "url_rewrite_name": "quan-11",
+                "latitude": 10.762864,
+                "longitude": 106.657012
+            },
+            {
+                "id": 14,
+                "name": "Quận 12",
+                "url_rewrite_name": "quan-12",
+                "latitude": 10.854146,
+                "longitude": 106.703206
+            },
+            {
+                "id": 15,
+                "name": "Bình Thạnh",
+                "url_rewrite_name": "quan-binh-thanh",
+                "latitude": 10.802619,
+                "longitude": 106.715484
+            },
+            {
+                "id": 16,
+                "name": "Tân Bình",
+                "url_rewrite_name": "quan-tan-binh",
+                "latitude": 10.798403,
+                "longitude": 106.659114
+            },
+            {
+                "id": 17,
+                "name": "Phú Nhuận",
+                "url_rewrite_name": "quan-phu-nhuan",
+                "latitude": 10.796767,
+                "longitude": 106.673679
+            },
+            {
+                "id": 18,
+                "name": "Bình Tân",
+                "url_rewrite_name": "quan-binh-tan",
+                "latitude": 10.729344,
+                "longitude": 106.619493
+            },
+            {
+                "id": 19,
+                "name": "Tân Phú",
+                "url_rewrite_name": "quan-tan-phu",
+                "latitude": 10.794588,
+                "longitude": 106.629106
+            },
+            {
+                "id": 693,
+                "name": "Thành Phố Thủ Đức",
+                "url_rewrite_name": "quan-thu-duc",
+                "latitude": 10.84319,
+                "longitude": 106.768522
+            },
+            {
+                "id": 694,
+                "name": "Củ Chi",
+                "url_rewrite_name": "cu-chi",
+                "latitude": 10.968408,
+                "longitude": 106.485894
+            },
+            {
+                "id": 695,
+                "name": "Hóc Môn",
+                "url_rewrite_name": "hoc-mon",
+                "latitude": 10.901609,
+                "longitude": 106.631576
+            },
+            {
+                "id": 696,
+                "name": "Bình Chánh",
+                "url_rewrite_name": "binh-chanh",
+                "latitude": 10.736413,
+                "longitude": 106.67163
+            },
+            {
+                "id": 698,
+                "name": "Cần Giờ",
+                "url_rewrite_name": "can-gio",
+                "latitude": 10.377187,
+                "longitude": 106.890879
+            },
+            {
+                "id": 699,
+                "name": "Nhà Bè",
+                "url_rewrite_name": "huyen-nha-be",
+                "latitude": 10.711877,
+                "longitude": 106.705163
+            }
+        ],
+        "url_rewrite_name": "ho-chi-minh",
+        "latitude": 10.823099
+    },
+    {
+        "id": 218,
+        "name": "Hà Nội",
+        "longitude": 105.85,
+        "districts": [
+            {
+                "id": 20,
+                "name": "Ba Đình",
+                "url_rewrite_name": "quan-ba-dinh",
+                "latitude": 21.027189,
+                "longitude": 105.817758
+            },
+            {
+                "id": 21,
+                "name": "Cầu Giấy",
+                "url_rewrite_name": "quan-cau-giay",
+                "latitude": 21.009018,
+                "longitude": 105.797357
+            },
+            {
+                "id": 22,
+                "name": "Đống Đa",
+                "url_rewrite_name": "quan-dong-da",
+                "latitude": 21.00572,
+                "longitude": 105.822502
+            },
+            {
+                "id": 23,
+                "name": "Hà Đông",
+                "url_rewrite_name": "quan-ha-dong",
+                "latitude": 20.974704,
+                "longitude": 105.792289
+            },
+            {
+                "id": 24,
+                "name": "Hai Bà Trưng",
+                "url_rewrite_name": "quan-hai-ba-trung",
+                "latitude": 21.012118,
+                "longitude": 105.849891
+            },
+            {
+                "id": 25,
+                "name": "Hoàn Kiếm",
+                "url_rewrite_name": "quan-hoan-kiem",
+                "latitude": 21.051991,
+                "longitude": 105.908057
+            },
+            {
+                "id": 26,
+                "name": "Hoàng Mai",
+                "url_rewrite_name": "quan-hoang-mai",
+                "latitude": 20.985954,
+                "longitude": 105.851222
+            },
+            {
+                "id": 27,
+                "name": "Long Biên",
+                "url_rewrite_name": "quan-long-bien",
+                "latitude": 21.053364,
+                "longitude": 105.901015
+            },
+            {
+                "id": 28,
+                "name": "Tây Hồ",
+                "url_rewrite_name": "quan-tay-ho",
+                "latitude": 21.073889,
+                "longitude": 105.812953
+            },
+            {
+                "id": 29,
+                "name": "Thanh Xuân",
+                "url_rewrite_name": "quan-thanh-xuan",
+                "latitude": 21.033333,
+                "longitude": 105.85
+            },
+            {
+                "id": 678,
+                "name": "Gia Lâm",
+                "url_rewrite_name": "gia-lam",
+                "latitude": 21.05023,
+                "longitude": 105.885662
+            },
+            {
+                "id": 679,
+                "name": "Hoài Đức",
+                "url_rewrite_name": "hoai-duc",
+                "latitude": 21.004154,
+                "longitude": 105.679207
+            },
+            {
+                "id": 688,
+                "name": "Thanh Trì",
+                "url_rewrite_name": "thanh-tri",
+                "latitude": 20.921933,
+                "longitude": 105.851048
+            },
+            {
+                "id": 689,
+                "name": "Thường Tín",
+                "url_rewrite_name": "thuong-tin",
+                "latitude": 20.921933,
+                "longitude": 105.851048
+            },
+            {
+                "id": 690,
+                "name": "Bắc Từ Liêm",
+                "url_rewrite_name": "bac-tu-liem",
+                "latitude": 21.039044,
+                "longitude": 105.753853
+            },
+            {
+                "id": 945,
+                "name": "Nam Từ Liêm",
+                "url_rewrite_name": "quan-nam-tu-liem",
+                "latitude": 21.034054,
+                "longitude": 105.77129
+            }
+        ],
+        "url_rewrite_name": "ha-noi",
+        "latitude": 21.033333
+    },
+    {
+        "id": 219,
+        "name": "Đà Nẵng",
+        "longitude": 108.214897,
+        "districts": [
+            {
+                "id": 30,
+                "name": "Quận Cẩm Lệ",
+                "url_rewrite_name": "quan-cam-le",
+                "latitude": 16.034489,
+                "longitude": 108.209502
+            },
+            {
+                "id": 31,
+                "name": "Quận Hải Châu",
+                "url_rewrite_name": "quan-hai-chau",
+                "latitude": 16.071625,
+                "longitude": 108.222574
+            },
+            {
+                "id": 32,
+                "name": "Quận Liên Chiểu",
+                "url_rewrite_name": "quan-lien-chieu",
+                "latitude": 16.070001,
+                "longitude": 108.145187
+            },
+            {
+                "id": 33,
+                "name": "Quận Ngũ Hành Sơn",
+                "url_rewrite_name": "quan-ngu-hanh-son",
+                "latitude": 16.036841,
+                "longitude": 108.239334
+            },
+            {
+                "id": 34,
+                "name": "Quận Sơn Trà",
+                "url_rewrite_name": "quan-son-tra",
+                "latitude": 16.066476,
+                "longitude": 108.24614
+            },
+            {
+                "id": 35,
+                "name": "Quận Thanh Khê",
+                "url_rewrite_name": "quan-thanh-khe",
+                "latitude": 16.069166,
+                "longitude": 108.209399
+            },
+            {
+                "id": 158,
+                "name": "Hòa Vang",
+                "url_rewrite_name": "hoa-vang",
+                "latitude": 15.983333,
+                "longitude": 107.983333
+            },
+            {
+                "id": 159,
+                "name": "Hoàng Sa",
+                "url_rewrite_name": "hoang-sa",
+                "latitude": 15.983333,
+                "longitude": 107.983333
+            }
+        ],
+        "url_rewrite_name": "da-nang",
+        "latitude": 16.051571
+    },
+    {
+        "id": 221,
+        "name": "Cần Thơ",
+        "longitude": 105.783798,
+        "districts": [
+            {
+                "id": 43,
+                "name": "Quận Ninh Kiều",
+                "url_rewrite_name": "quan-ninh-kieu",
+                "latitude": 10.033333,
+                "longitude": 105.783333
+            },
+            {
+                "id": 44,
+                "name": "Quận Bình Thủy",
+                "url_rewrite_name": "quan-binh-thuy",
+                "latitude": 10.051853,
+                "longitude": 105.773567
+            },
+            {
+                "id": 45,
+                "name": "Quận Cái Răng",
+                "url_rewrite_name": "quan-cai-rang",
+                "latitude": 10.014264,
+                "longitude": 105.784521
+            },
+            {
+                "id": 46,
+                "name": "Quận Ô Môn",
+                "url_rewrite_name": "quan-o-mon",
+                "latitude": 10.014264,
+                "longitude": 105.784521
+            },
+            {
+                "id": 47,
+                "name": "Quận Thốt Nốt",
+                "url_rewrite_name": "quan-thot-not",
+                "latitude": 10.272502,
+                "longitude": 105.530263
+            },
+            {
+                "id": 117,
+                "name": "Hưng Phú",
+                "url_rewrite_name": "hung-phu",
+                "latitude": 10.018474,
+                "longitude": 105.782011
+            },
+            {
+                "id": 118,
+                "name": "Phong Điền",
+                "url_rewrite_name": "phong-dien",
+                "latitude": 10.006319,
+                "longitude": 105.652983
+            },
+            {
+                "id": 119,
+                "name": "Cờ Đỏ",
+                "url_rewrite_name": "co-do",
+                "latitude": 10.006319,
+                "longitude": 105.652983
+            },
+            {
+                "id": 120,
+                "name": "Thới Lai",
+                "url_rewrite_name": "thoi-lai",
+                "latitude": 10.006319,
+                "longitude": 105.652983
+            },
+            {
+                "id": 121,
+                "name": "Vĩnh Thạnh",
+                "url_rewrite_name": "vinh-thanh",
+                "latitude": 10.006319,
+                "longitude": 105.652983
+            }
+        ],
+        "url_rewrite_name": "can-tho",
+        "latitude": 10.03183
+    },
+    {
+        "id": 220,
+        "name": "Hải Phòng",
+        "longitude": 106.679802,
+        "districts": [
+            {
+                "id": 36,
+                "name": "Quận Dương Kinh",
+                "url_rewrite_name": "quan-duong-kinh",
+                "latitude": 20.72499,
+                "longitude": 107.050567
+            },
+            {
+                "id": 37,
+                "name": "Quận Đồ Sơn",
+                "url_rewrite_name": "quan-do-son",
+                "latitude": 20.824079,
+                "longitude": 106.698532
+            },
+            {
+                "id": 38,
+                "name": "Quận Hải An",
+                "url_rewrite_name": "quan-hai-an",
+                "latitude": 20.828538,
+                "longitude": 106.701698
+            },
+            {
+                "id": 39,
+                "name": "Quận Kiến An",
+                "url_rewrite_name": "quan-kien-an",
+                "latitude": 20.825759,
+                "longitude": 106.655133
+            },
+            {
+                "id": 40,
+                "name": "Quận Hồng Bàng",
+                "url_rewrite_name": "quan-hong-bang",
+                "latitude": 20.865138,
+                "longitude": 106.686639
+            },
+            {
+                "id": 41,
+                "name": "Quận Ngô Quyền",
+                "url_rewrite_name": "quan-ngo-quyen",
+                "latitude": 20.87015,
+                "longitude": 106.710892
+            },
+            {
+                "id": 42,
+                "name": "Quận Lê Chân",
+                "url_rewrite_name": "quan-le-chan",
+                "latitude": 20.835109,
+                "longitude": 106.68451
+            },
+            {
+                "id": 109,
+                "name": "An Dương",
+                "url_rewrite_name": "an-duong",
+                "latitude": 20.851232,
+                "longitude": 106.667461
+            },
+            {
+                "id": 110,
+                "name": "An Lão",
+                "url_rewrite_name": "an-lao",
+                "latitude": 20.851232,
+                "longitude": 106.667461
+            },
+            {
+                "id": 111,
+                "name": "Bạch Long Vĩ",
+                "url_rewrite_name": "bach-long-vi",
+                "latitude": 20.851232,
+                "longitude": 106.667461
+            },
+            {
+                "id": 112,
+                "name": "Cát Hải",
+                "url_rewrite_name": "cat-hai",
+                "latitude": 20.809267,
+                "longitude": 106.87094
+            },
+            {
+                "id": 113,
+                "name": "Kiến Thụy",
+                "url_rewrite_name": "kien-thuy",
+                "latitude": 20.809267,
+                "longitude": 106.87094
+            },
+            {
+                "id": 114,
+                "name": "Tiên Lãng",
+                "url_rewrite_name": "tien-lang",
+                "latitude": 20.809267,
+                "longitude": 106.87094
+            },
+            {
+                "id": 115,
+                "name": "Vĩnh Bảo",
+                "url_rewrite_name": "vinh-bao",
+                "latitude": 20.809267,
+                "longitude": 106.87094
+            },
+            {
+                "id": 116,
+                "name": "Thủy Nguyên",
+                "url_rewrite_name": "thuy-nguyen",
+                "latitude": 20.902718,
+                "longitude": 106.672697
+            }
+        ],
+        "url_rewrite_name": "hai-phong",
+        "latitude": 20.861361
+    },
+    {
+        "id": 273,
+        "name": "Huế",
+        "longitude": 107.56235,
+        "districts": [
+            {
+                "id": 301,
+                "name": "Tp. Huế",
+                "url_rewrite_name": "tp-hue",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 302,
+                "name": "Thị xã Hương Thủy",
+                "url_rewrite_name": "thi-xa-huong-thuy",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 303,
+                "name": "A Lưới",
+                "url_rewrite_name": "a-luoi",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 304,
+                "name": "Hương Trà",
+                "url_rewrite_name": "huong-tra",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 305,
+                "name": "Nam Đông",
+                "url_rewrite_name": "nam-dong",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 306,
+                "name": "Phong Điền",
+                "url_rewrite_name": "phong-dien",
+                "latitude": 16.469347,
+                "longitude": 107.59425
+            },
+            {
+                "id": 307,
+                "name": "Phú Lộc",
+                "url_rewrite_name": "phu-loc",
+                "latitude": 16.302977,
+                "longitude": 107.99243
+            },
+            {
+                "id": 308,
+                "name": "Phú Vang",
+                "url_rewrite_name": "phu-vang",
+                "latitude": 16.504628,
+                "longitude": 107.60042
+            },
+            {
+                "id": 309,
+                "name": "Quảng Điền",
+                "url_rewrite_name": "quang-dien",
+                "latitude": 16.504628,
+                "longitude": 107.60042
+            }
+        ],
+        "url_rewrite_name": "hue",
+        "latitude": 16.4498
+    },
+    {
+        "id": 248,
+        "name": "Khánh Hoà",
+        "longitude": 109.196749,
+        "districts": [
+            {
+                "id": 386,
+                "name": "Tp. Nha Trang",
+                "url_rewrite_name": "tp-nha-trang",
+                "latitude": 12.256742,
+                "longitude": 109.194517
+            },
+            {
+                "id": 387,
+                "name": "Tp. Cam Ranh",
+                "url_rewrite_name": "thi-xa-cam-ranh",
+                "latitude": 12.256742,
+                "longitude": 109.194517
+            },
+            {
+                "id": 388,
+                "name": "Vạn Ninh",
+                "url_rewrite_name": "van-ninh",
+                "latitude": 12.256742,
+                "longitude": 109.194517
+            },
+            {
+                "id": 389,
+                "name": "Ninh Hòa",
+                "url_rewrite_name": "ninh-hoa",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            },
+            {
+                "id": 390,
+                "name": "Diên Khánh",
+                "url_rewrite_name": "dien-khanh",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            },
+            {
+                "id": 391,
+                "name": "Khánh Vĩnh",
+                "url_rewrite_name": "khanh-vinh",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            },
+            {
+                "id": 392,
+                "name": "Khánh Sơn",
+                "url_rewrite_name": "khanh-son",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            },
+            {
+                "id": 393,
+                "name": "Cam Lâm",
+                "url_rewrite_name": "cam-lam",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            },
+            {
+                "id": 394,
+                "name": "Trường Sa",
+                "url_rewrite_name": "truong-sa",
+                "latitude": 12.449997,
+                "longitude": 109.287455
+            }
+        ],
+        "url_rewrite_name": "khanh-hoa",
+        "latitude": 12.238791
+    },
+    {
+        "id": 222,
+        "name": "Đồng Nai",
+        "longitude": 106.861597,
+        "districts": [
+            {
+                "id": 48,
+                "name": "Định Quán",
+                "url_rewrite_name": "dinh-quan",
+                "latitude": 11.197684,
+                "longitude": 107.352047
+            },
+            {
+                "id": 49,
+                "name": "Long Thành",
+                "url_rewrite_name": "long-thanh",
+                "latitude": 10.678705,
+                "longitude": 107.024417
+            },
+            {
+                "id": 50,
+                "name": "Xuân Lộc",
+                "url_rewrite_name": "xuan-loc",
+                "latitude": 10.678705,
+                "longitude": 107.024417
+            },
+            {
+                "id": 51,
+                "name": "Vĩnh Cửu",
+                "url_rewrite_name": "vinh-cuu",
+                "latitude": 10.996415,
+                "longitude": 106.786273
+            },
+            {
+                "id": 52,
+                "name": "Trảng Bom",
+                "url_rewrite_name": "trang-bom",
+                "latitude": 10.949488,
+                "longitude": 106.997847
+            },
+            {
+                "id": 53,
+                "name": "Thống Nhất",
+                "url_rewrite_name": "thong-nhat",
+                "latitude": 10.948644,
+                "longitude": 106.835153
+            },
+            {
+                "id": 55,
+                "name": "Nhơn Trạch",
+                "url_rewrite_name": "nhon-trach",
+                "latitude": 10.659258,
+                "longitude": 106.858091
+            },
+            {
+                "id": 56,
+                "name": "Cẩm Mỹ",
+                "url_rewrite_name": "cam-my",
+                "latitude": 10.659258,
+                "longitude": 106.858091
+            },
+            {
+                "id": 57,
+                "name": "Tp. Biên Hòa",
+                "url_rewrite_name": "tp-bien-hoa",
+                "latitude": 10.952555,
+                "longitude": 106.809052
+            },
+            {
+                "id": 66,
+                "name": "Thị xã Long Khánh",
+                "url_rewrite_name": "thi-xa-long-khanh",
+                "latitude": 10.931543,
+                "longitude": 107.238107
+            },
+            {
+                "id": 67,
+                "name": "Tân Phú",
+                "url_rewrite_name": "tan-phu",
+                "latitude": 10.931543,
+                "longitude": 107.238107
+            }
+        ],
+        "url_rewrite_name": "dong-nai",
+        "latitude": 10.958743
+    },
+    {
+        "id": 257,
+        "name": "Nghệ An",
+        "longitude": 105.681333,
+        "districts": [
+            {
+                "id": 178,
+                "name": "Tp. Vinh",
+                "url_rewrite_name": "tp-vinh",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 179,
+                "name": "Thị xã Cửa Lò",
+                "url_rewrite_name": "thi-xa-cua-lo",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 180,
+                "name": "Thị xã Thái Hòa",
+                "url_rewrite_name": "thi-xa-thai-hoa",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 181,
+                "name": "Anh Sơn",
+                "url_rewrite_name": "anh-son",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 182,
+                "name": "Con Cuông",
+                "url_rewrite_name": "con-cuong",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 183,
+                "name": "Diễn Châu",
+                "url_rewrite_name": "dien-chau",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 184,
+                "name": "Đô Lương",
+                "url_rewrite_name": "do-luong",
+                "latitude": 18.679158,
+                "longitude": 105.682018
+            },
+            {
+                "id": 185,
+                "name": "Hưng Nguyên",
+                "url_rewrite_name": "hung-nguyen",
+                "latitude": 18.600612,
+                "longitude": 105.663981
+            },
+            {
+                "id": 186,
+                "name": "Quỳ Châu",
+                "url_rewrite_name": "quy-chau",
+                "latitude": 18.600612,
+                "longitude": 105.663981
+            },
+            {
+                "id": 187,
+                "name": "Kỳ Sơn",
+                "url_rewrite_name": "ky-son",
+                "latitude": 18.600612,
+                "longitude": 105.663981
+            },
+            {
+                "id": 188,
+                "name": "Nam Đàn",
+                "url_rewrite_name": "nam-dan",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 189,
+                "name": "Nghi Lộc",
+                "url_rewrite_name": "nghi-loc",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 190,
+                "name": "Nghĩa Đàn",
+                "url_rewrite_name": "nghia-dan",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 191,
+                "name": "Quế Phong",
+                "url_rewrite_name": "que-phong",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 192,
+                "name": "Quỳ Hợp",
+                "url_rewrite_name": "quy-hop",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 193,
+                "name": "Quỳnh Lưu",
+                "url_rewrite_name": "quynh-luu",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 194,
+                "name": "Tân Kỳ",
+                "url_rewrite_name": "tan-ky",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 195,
+                "name": "Thanh Chương",
+                "url_rewrite_name": "thanh-chuong",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 196,
+                "name": "Tương Dương",
+                "url_rewrite_name": "tuong-duong",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            },
+            {
+                "id": 197,
+                "name": "Yên Thành",
+                "url_rewrite_name": "yen-thanh",
+                "latitude": 18.700765,
+                "longitude": 105.497353
+            }
+        ],
+        "url_rewrite_name": "nghe-an",
+        "latitude": 18.679585
+    },
+    {
+        "id": 223,
+        "name": "Vũng Tàu",
+        "longitude": 107.084034,
+        "districts": [
+            {
+                "id": 58,
+                "name": "Tp. Vũng Tàu",
+                "url_rewrite_name": "tp-vung-tau",
+                "latitude": 10.360384,
+                "longitude": 107.060539
+            },
+            {
+                "id": 59,
+                "name": "Tp. Bà Rịa",
+                "url_rewrite_name": "tp-ba-ria",
+                "latitude": 10.495534,
+                "longitude": 107.161889
+            },
+            {
+                "id": 60,
+                "name": "Huyện Châu Đức",
+                "url_rewrite_name": "huyen-chau-duc",
+                "latitude": 10.495534,
+                "longitude": 107.161889
+            },
+            {
+                "id": 61,
+                "name": "Huyện Côn Đảo",
+                "url_rewrite_name": "huyen-con-dao",
+                "latitude": 8.700683,
+                "longitude": 106.631201
+            },
+            {
+                "id": 62,
+                "name": "Huyện Long Điền",
+                "url_rewrite_name": "huyen-long-dien",
+                "latitude": 8.700683,
+                "longitude": 106.631201
+            },
+            {
+                "id": 63,
+                "name": "Huyện Đất Đỏ",
+                "url_rewrite_name": "huyen-dat-do",
+                "latitude": 10.414486,
+                "longitude": 107.279069
+            },
+            {
+                "id": 64,
+                "name": "Huyện Tân Thành",
+                "url_rewrite_name": "huyen-tan-thanh",
+                "latitude": 10.563029,
+                "longitude": 107.058275
+            },
+            {
+                "id": 65,
+                "name": "Huyện Xuyên Mộc",
+                "url_rewrite_name": "huyen-xuyen-moc",
+                "latitude": 10.563029,
+                "longitude": 107.058275
+            },
+            {
+                "id": 702,
+                "name": "Huyện Long Sơn",
+                "url_rewrite_name": "huyen-long-son",
+                "latitude": 10.476111,
+                "longitude": 107.059643
+            }
+        ],
+        "url_rewrite_name": "vung-tau",
+        "latitude": 10.345413
+    },
+    {
+        "id": 224,
+        "name": "An Giang",
+        "longitude": 105.125896,
+        "districts": [
+            {
+                "id": 68,
+                "name": "Tp. Long Xuyên",
+                "url_rewrite_name": "tp-long-xuyen",
+                "latitude": 10.382217,
+                "longitude": 105.43591
+            }
+        ],
+        "url_rewrite_name": "an-giang",
+        "latitude": 10.521584
+    },
+    {
+        "id": 225,
+        "name": "Bạc Liêu",
+        "longitude": 105.752154,
+        "districts": [
+            {
+                "id": 160,
+                "name": "Thị xã Bạc Liêu",
+                "url_rewrite_name": "thi-xa-bac-lieu",
+                "latitude": 9.2925,
+                "longitude": 105.716978
+            }
+        ],
+        "url_rewrite_name": "bac-lieu",
+        "latitude": 9.260353
+    },
+    {
+        "id": 227,
+        "name": "Bắc Giang",
+        "longitude": 106.62913,
+        "districts": [
+            {
+                "id": 206,
+                "name": "Tp. Bắc Giang",
+                "url_rewrite_name": "tp-bac-giang",
+                "latitude": 21.274459,
+                "longitude": 106.202452
+            }
+        ],
+        "url_rewrite_name": "bac-giang",
+        "latitude": 21.301495
+    },
+    {
+        "id": 228,
+        "name": "Bắc Ninh",
+        "longitude": 106.056,
+        "districts": [
+            {
+                "id": 216,
+                "name": "Tp. Bắc Ninh",
+                "url_rewrite_name": "tp-bac-ninh",
+                "latitude": 21.17979,
+                "longitude": 106.069028
+            }
+        ],
+        "url_rewrite_name": "bac-ninh",
+        "latitude": 21.183901
+    },
+    {
+        "id": 229,
+        "name": "Bến Tre",
+        "longitude": 106.440587,
+        "districts": [
+            {
+                "id": 149,
+                "name": "Tp. Bến Tre",
+                "url_rewrite_name": "tp-ben-tre",
+                "latitude": 10.233674,
+                "longitude": 106.369286
+            }
+        ],
+        "url_rewrite_name": "ben-tre",
+        "latitude": 10.108155
+    },
+    {
+        "id": 230,
+        "name": "Bình Dương",
+        "longitude": 106.674715,
+        "districts": [
+            {
+                "id": 122,
+                "name": "Thị xã Thủ Dầu Một",
+                "url_rewrite_name": "thi-xa-thu-dau-mot",
+                "latitude": 11.043352,
+                "longitude": 106.631584
+            },
+            {
+                "id": 123,
+                "name": "Bến Cát",
+                "url_rewrite_name": "ben-cat",
+                "latitude": 11.126705,
+                "longitude": 106.60871
+            },
+            {
+                "id": 124,
+                "name": "Dầu Tiếng",
+                "url_rewrite_name": "dau-tieng",
+                "latitude": 11.365944,
+                "longitude": 106.397095
+            },
+            {
+                "id": 125,
+                "name": "Tân Uyên",
+                "url_rewrite_name": "tan-uyen",
+                "latitude": 10.97572,
+                "longitude": 106.759279
+            },
+            {
+                "id": 126,
+                "name": "Phú Giáo",
+                "url_rewrite_name": "phu-giao",
+                "latitude": 10.97572,
+                "longitude": 106.759279
+            },
+            {
+                "id": 127,
+                "name": "Thuận An",
+                "url_rewrite_name": "thuan-an",
+                "latitude": 10.906163,
+                "longitude": 106.702825
+            },
+            {
+                "id": 128,
+                "name": "Dĩ An",
+                "url_rewrite_name": "di-an",
+                "latitude": 10.887225,
+                "longitude": 106.759743
+            },
+            {
+                "id": 824,
+                "name": "Bàu Bàng",
+                "url_rewrite_name": "bau-bang",
+                "latitude": 11.328191,
+                "longitude": 106.607784
+            }
+        ],
+        "url_rewrite_name": "binh-duong",
+        "latitude": 10.981192
+    },
+    {
+        "id": 231,
+        "name": "Bình Định",
+        "longitude": 109.219663,
+        "districts": [
+            {
+                "id": 167,
+                "name": "Tp. Qui Nhơn",
+                "url_rewrite_name": "tp-qui-nhon",
+                "latitude": 13.772265,
+                "longitude": 109.230476
+            }
+        ],
+        "url_rewrite_name": "binh-dinh",
+        "latitude": 13.782967
+    },
+    {
+        "id": 232,
+        "name": "Bình Phước",
+        "longitude": 106.723464,
+        "districts": [
+            {
+                "id": 129,
+                "name": "Thị xã Đồng Xoài",
+                "url_rewrite_name": "thi-xa-dong-xoai",
+                "latitude": 11.534178,
+                "longitude": 106.883978
+            }
+        ],
+        "url_rewrite_name": "binh-phuoc",
+        "latitude": 11.751189
+    },
+    {
+        "id": 233,
+        "name": "Bình Thuận",
+        "longitude": 108.261478,
+        "districts": [
+            {
+                "id": 139,
+                "name": "Tp. Phan Thiết",
+                "url_rewrite_name": "tp-phan-thiet",
+                "latitude": 10.924697,
+                "longitude": 108.097025
+            }
+        ],
+        "url_rewrite_name": "binh-thuan",
+        "latitude": 10.98046
+    },
+    {
+        "id": 234,
+        "name": "Cà Mau",
+        "longitude": 105.15,
+        "districts": [
+            {
+                "id": 237,
+                "name": "Tp. Cà Mau",
+                "url_rewrite_name": "tp-ca-mau",
+                "latitude": 9.183257,
+                "longitude": 105.160414
+            }
+        ],
+        "url_rewrite_name": "ca-mau",
+        "latitude": 9.183333
+    },
+    {
+        "id": 236,
+        "name": "Đắk Lắk",
+        "longitude": 108.038248,
+        "districts": [
+            {
+                "id": 79,
+                "name": "Tp. Buôn Ma Thuột",
+                "url_rewrite_name": "buon-ma-thuot",
+                "latitude": 12.69238,
+                "longitude": 108.054289
+            }
+        ],
+        "url_rewrite_name": "dak-lak",
+        "latitude": 12.666194
+    },
+    {
+        "id": 238,
+        "name": "Điện Biên",
+        "longitude": 103.035585,
+        "districts": [
+            {
+                "id": 347,
+                "name": "Điện Biên Phủ",
+                "url_rewrite_name": "tp-dien-bien-phu",
+                "latitude": 21.381315,
+                "longitude": 103.013735
+            },
+            {
+                "id": 348,
+                "name": "Thị xã Mường Lay",
+                "url_rewrite_name": "thi-xa-muong-lay",
+                "latitude": 21.381315,
+                "longitude": 103.013735
+            },
+            {
+                "id": 349,
+                "name": "Điện Biên",
+                "url_rewrite_name": "dien-bien",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 350,
+                "name": "Điện Biên Đông",
+                "url_rewrite_name": "dien-bien-dong",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 351,
+                "name": "Mường Ảng",
+                "url_rewrite_name": "muong-ang",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 352,
+                "name": "Mường Chà",
+                "url_rewrite_name": "muong-cha",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 353,
+                "name": "Mường Nhé",
+                "url_rewrite_name": "muong-nhe",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 354,
+                "name": "Tủa Chùa",
+                "url_rewrite_name": "tua-chua",
+                "latitude": 21.39674,
+                "longitude": 102.980257
+            },
+            {
+                "id": 355,
+                "name": "Tuần Giáo",
+                "url_rewrite_name": "tuan-giao",
+                "latitude": 21.5837,
+                "longitude": 103.406196
+            },
+            {
+                "id": 1263,
+                "name": "Nậm Pồ",
+                "url_rewrite_name": "nam-po",
+                "latitude": 22.194972,
+                "longitude": 102.457171
+            }
+        ],
+        "url_rewrite_name": "dien-bien",
+        "latitude": 21.409427
+    },
+    {
+        "id": 239,
+        "name": "Đồng Tháp",
+        "longitude": 105.634035,
+        "districts": [
+            {
+                "id": 289,
+                "name": "Tp. Cao Lãnh",
+                "url_rewrite_name": "tp-cao-lanh",
+                "latitude": 10.398845,
+                "longitude": 105.802975
+            }
+        ],
+        "url_rewrite_name": "dong-thap",
+        "latitude": 10.454972
+    },
+    {
+        "id": 240,
+        "name": "Gia Lai",
+        "longitude": 108.237752,
+        "districts": [
+            {
+                "id": 322,
+                "name": "Tp. Pleiku",
+                "url_rewrite_name": "tp-pleiku",
+                "latitude": 13.970114,
+                "longitude": 107.996901
+            }
+        ],
+        "url_rewrite_name": "gia-lai",
+        "latitude": 13.773701
+    },
+    {
+        "id": 244,
+        "name": "Hải Dương",
+        "longitude": 106.314554,
+        "districts": [
+            {
+                "id": 310,
+                "name": "Tp. Hải Dương",
+                "url_rewrite_name": "tp-hai-duong",
+                "latitude": 20.938635,
+                "longitude": 106.320298
+            }
+        ],
+        "url_rewrite_name": "hai-duong",
+        "latitude": 20.937341
+    },
+    {
+        "id": 245,
+        "name": "Hậu Giang",
+        "longitude": 105.641253,
+        "districts": [
+            {
+                "id": 405,
+                "name": "Thành Phố Vị Thanh",
+                "url_rewrite_name": "thanh-pho-vi-thanh",
+                "latitude": 9.781849,
+                "longitude": 105.470064
+            }
+        ],
+        "url_rewrite_name": "hau-giang",
+        "latitude": 9.757898
+    },
+    {
+        "id": 247,
+        "name": "Hưng Yên",
+        "longitude": 106.016997,
+        "districts": [
+            {
+                "id": 395,
+                "name": "Tp. Hưng Yên",
+                "url_rewrite_name": "tp-hung-yen",
+                "latitude": 20.655224,
+                "longitude": 106.053219
+            },
+            {
+                "id": 396,
+                "name": "Ân Thi",
+                "url_rewrite_name": "an-thi",
+                "latitude": 20.655224,
+                "longitude": 106.053219
+            },
+            {
+                "id": 397,
+                "name": "Khoái Châu",
+                "url_rewrite_name": "khoai-chau",
+                "latitude": 20.655224,
+                "longitude": 106.053219
+            },
+            {
+                "id": 398,
+                "name": "Kim Động",
+                "url_rewrite_name": "kim-dong",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 399,
+                "name": "Mỹ Hào",
+                "url_rewrite_name": "my-hao",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 400,
+                "name": "Phù Cừ",
+                "url_rewrite_name": "phu-cu",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 401,
+                "name": "Tiên Lữ",
+                "url_rewrite_name": "tien-lu",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 402,
+                "name": "Văn Giang",
+                "url_rewrite_name": "van-giang",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 403,
+                "name": "Văn Lâm",
+                "url_rewrite_name": "van-lam",
+                "latitude": 20.794293,
+                "longitude": 106.044633
+            },
+            {
+                "id": 404,
+                "name": "Yên Mỹ",
+                "url_rewrite_name": "yen-my",
+                "latitude": 20.928474,
+                "longitude": 106.057593
+            }
+        ],
+        "url_rewrite_name": "hung-yen",
+        "latitude": 20.852571
+    },
+    {
+        "id": 249,
+        "name": "Kiên Giang",
+        "longitude": 105.125896,
+        "districts": [
+            {
+                "id": 94,
+                "name": "Tp. Rạch Giá",
+                "url_rewrite_name": "tp-rach-gia",
+                "latitude": 9.956128,
+                "longitude": 105.123196
+            }
+        ],
+        "url_rewrite_name": "kien-giang",
+        "latitude": 9.824959
+    },
+    {
+        "id": 254,
+        "name": "Lâm Đồng",
+        "longitude": 108.458313,
+        "districts": [
+            {
+                "id": 246,
+                "name": "Tp. Đà Lạt",
+                "url_rewrite_name": "tp-da-lat",
+                "latitude": 11.950431,
+                "longitude": 108.4342
+            }
+        ],
+        "url_rewrite_name": "lam-dong",
+        "latitude": 11.940419
+    },
+    {
+        "id": 255,
+        "name": "Long An",
+        "longitude": 106.205148,
+        "districts": [
+            {
+                "id": 703,
+                "name": "TP. Tân An",
+                "url_rewrite_name": "tp-tan-an",
+                "latitude": 10.535999,
+                "longitude": 106.400635
+            }
+        ],
+        "url_rewrite_name": "long-an",
+        "latitude": 10.685145
+    },
+    {
+        "id": 256,
+        "name": "Nam Định",
+        "longitude": 106.168333,
+        "districts": [
+            {
+                "id": 527,
+                "name": "Tp. Nam Định",
+                "url_rewrite_name": "tp-nam-dinh",
+                "latitude": 20.428149,
+                "longitude": 106.184396
+            }
+        ],
+        "url_rewrite_name": "nam-dinh",
+        "latitude": 20.42
+    },
+    {
+        "id": 259,
+        "name": "Ninh Thuận",
+        "longitude": 108.991207,
+        "districts": [
+            {
+                "id": 621,
+                "name": "Tp. Phan Rang-Tháp Chàm",
+                "url_rewrite_name": "tp-phan-rangthap-cham",
+                "latitude": 11.566979,
+                "longitude": 108.994423
+            }
+        ],
+        "url_rewrite_name": "ninh-thuan",
+        "latitude": 11.582568
+    },
+    {
+        "id": 261,
+        "name": "Phú Yên",
+        "longitude": 109.295048,
+        "districts": [
+            {
+                "id": 599,
+                "name": "Tp. Tuy Hòa",
+                "url_rewrite_name": "tp-tuy-hoa",
+                "latitude": 13.089799,
+                "longitude": 109.309168
+            }
+        ],
+        "url_rewrite_name": "phu-yen",
+        "latitude": 13.105706
+    },
+    {
+        "id": 262,
+        "name": "Quảng Bình",
+        "longitude": 106.598396,
+        "districts": [
+            {
+                "id": 705,
+                "name": "Tp. Đồng Hới",
+                "url_rewrite_name": "dong-hoi",
+                "latitude": 17.480495,
+                "longitude": 106.619267
+            }
+        ],
+        "url_rewrite_name": "quang-binh",
+        "latitude": 17.465939
+    },
+    {
+        "id": 263,
+        "name": "Quảng Nam",
+        "longitude": 108.32644,
+        "districts": [
+            {
+                "id": 576,
+                "name": "Tp. Hội An",
+                "url_rewrite_name": "tp-hoi-an",
+                "latitude": 15.877495,
+                "longitude": 108.330962
+            }
+        ],
+        "url_rewrite_name": "quang-nam",
+        "latitude": 15.87723
+    },
+    {
+        "id": 264,
+        "name": "Quảng Ngãi",
+        "longitude": 108.804415,
+        "districts": [
+            {
+                "id": 561,
+                "name": "Tp. Quảng Ngãi",
+                "url_rewrite_name": "tp-quang-ngai",
+                "latitude": 15.123237,
+                "longitude": 108.810811
+            }
+        ],
+        "url_rewrite_name": "quang-ngai",
+        "latitude": 15.121387
+    },
+    {
+        "id": 265,
+        "name": "Quảng Ninh",
+        "longitude": 107.044807,
+        "districts": [
+            {
+                "id": 547,
+                "name": "Tp. Hạ Long",
+                "url_rewrite_name": "tp-ha-long",
+                "latitude": 20.956151,
+                "longitude": 107.054552
+            },
+            {
+                "id": 548,
+                "name": "Tp. Móng Cái",
+                "url_rewrite_name": "tp-mong-cai",
+                "latitude": 20.956151,
+                "longitude": 107.054552
+            },
+            {
+                "id": 549,
+                "name": "Tp. Cẩm Phả",
+                "url_rewrite_name": "tp-cam-pha",
+                "latitude": 21.008906,
+                "longitude": 107.250016
+            },
+            {
+                "id": 550,
+                "name": "Tp. Uông Bí",
+                "url_rewrite_name": "thi-xa-uong-bi",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 551,
+                "name": "Ba Chẽ",
+                "url_rewrite_name": "ba-che",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 552,
+                "name": "Bình Liêu",
+                "url_rewrite_name": "binh-lieu",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 553,
+                "name": "Cô Tô",
+                "url_rewrite_name": "co-to",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 554,
+                "name": "Đầm Hà",
+                "url_rewrite_name": "dam-ha",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 555,
+                "name": "Đông Triều",
+                "url_rewrite_name": "dong-trieu",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 556,
+                "name": "Hải Hà",
+                "url_rewrite_name": "hai-ha",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 557,
+                "name": "Hoành Bồ",
+                "url_rewrite_name": "hoanh-bo",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 558,
+                "name": "Tiên Yên",
+                "url_rewrite_name": "tien-yen",
+                "latitude": 21.036684,
+                "longitude": 106.736974
+            },
+            {
+                "id": 559,
+                "name": "Vân Đồn",
+                "url_rewrite_name": "van-don",
+                "latitude": 21.110671,
+                "longitude": 107.48879
+            },
+            {
+                "id": 560,
+                "name": "Thị Xã Quảng Yên",
+                "url_rewrite_name": "Quang-yen",
+                "latitude": 21.110671,
+                "longitude": 107.48879
+            }
+        ],
+        "url_rewrite_name": "quang-ninh",
+        "latitude": 20.971198
+    },
+    {
+        "id": 267,
+        "name": "Sóc Trăng",
+        "longitude": 105.973905,
+        "districts": [
+            {
+                "id": 516,
+                "name": "Tp. Sóc Trăng",
+                "url_rewrite_name": "tp-soc-trang",
+                "latitude": 9.606846,
+                "longitude": 105.97687
+            }
+        ],
+        "url_rewrite_name": "soc-trang",
+        "latitude": 9.602521
+    },
+    {
+        "id": 269,
+        "name": "Tây Ninh",
+        "longitude": 106.11928,
+        "districts": [
+            {
+                "id": 704,
+                "name": "Thành Phố Tây Ninh",
+                "url_rewrite_name": "thanh-pho-tay-ninh",
+                "latitude": 11.316576,
+                "longitude": 106.108134
+            }
+        ],
+        "url_rewrite_name": "tay-ninh",
+        "latitude": 11.367542
+    },
+    {
+        "id": 270,
+        "name": "Thái Bình",
+        "longitude": 106.336583,
+        "districts": [
+            {
+                "id": 497,
+                "name": "Tp. Thái Bình",
+                "url_rewrite_name": "tp-thai-binh",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 498,
+                "name": "Đông Hưng",
+                "url_rewrite_name": "dong-hung",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 499,
+                "name": "Hưng Hà",
+                "url_rewrite_name": "hung-ha",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 500,
+                "name": "Kiến Xương",
+                "url_rewrite_name": "kien-xuong",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 501,
+                "name": "Quỳnh Phụ",
+                "url_rewrite_name": "quynh-phu",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 502,
+                "name": "Thái Thụy",
+                "url_rewrite_name": "thai-thuy",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 503,
+                "name": "Tiền Hải",
+                "url_rewrite_name": "tien-hai",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            },
+            {
+                "id": 504,
+                "name": "Vũ Thư",
+                "url_rewrite_name": "vu-thu",
+                "latitude": 20.440967,
+                "longitude": 106.335436
+            }
+        ],
+        "url_rewrite_name": "thai-binh",
+        "latitude": 20.446347
+    },
+    {
+        "id": 271,
+        "name": "Thái Nguyên",
+        "longitude": 105.825204,
+        "districts": [
+            {
+                "id": 482,
+                "name": "Tp. Thái Nguyên",
+                "url_rewrite_name": "tp-thai-nguyen",
+                "latitude": 21.587254,
+                "longitude": 105.83058
+            }
+        ],
+        "url_rewrite_name": "thai-nguyen",
+        "latitude": 21.567156
+    },
+    {
+        "id": 272,
+        "name": "Thanh Hoá",
+        "longitude": 105.785182,
+        "districts": [
+            {
+                "id": 429,
+                "name": "Tp. Thanh Hóa",
+                "url_rewrite_name": "tp-thanh-hoa",
+                "latitude": 19.812072,
+                "longitude": 105.777948
+            }
+        ],
+        "url_rewrite_name": "thanh-hoa",
+        "latitude": 19.806692
+    },
+    {
+        "id": 274,
+        "name": "Tiền Giang",
+        "longitude": 106.299291,
+        "districts": [
+            {
+                "id": 271,
+                "name": "Tp. Mỹ Tho",
+                "url_rewrite_name": "tp-my-tho",
+                "latitude": 10.366415,
+                "longitude": 106.355708
+            }
+        ],
+        "url_rewrite_name": "tien-giang",
+        "latitude": 10.419005
+    },
+    {
+        "id": 275,
+        "name": "Trà Vinh",
+        "longitude": 106.334606,
+        "districts": [
+            {
+                "id": 421,
+                "name": "Tp. Trà Vinh",
+                "url_rewrite_name": "tp-tra-vinh",
+                "latitude": 9.933965,
+                "longitude": 106.335641
+            }
+        ],
+        "url_rewrite_name": "tra-vinh",
+        "latitude": 9.951332
+    },
+    {
+        "id": 277,
+        "name": "Vĩnh Long",
+        "longitude": 105.958865,
+        "districts": [
+            {
+                "id": 465,
+                "name": "Tp. Vĩnh Long",
+                "url_rewrite_name": "tp-vinh-long",
+                "latitude": 10.253011,
+                "longitude": 105.971718
+            }
+        ],
+        "url_rewrite_name": "vinh-long",
+        "latitude": 10.244844
+    }
+]
