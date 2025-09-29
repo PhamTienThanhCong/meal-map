@@ -55,27 +55,6 @@ Dự án đã gặp phải những hạn chế nghiêm trọng trong việc thu 
 2. **Hạn chế web scraping**: Shopee Food có các biện pháp chống bot và crawling nghiêm ngặt
 3. **Vấn đề pháp lý**: Việc crawl dữ liệu có thể vi phạm điều khoản sử dụng của Shopee Food
 
-## Các giải pháp thay thế đã cân nhắc
-
-- **Google Places API**: Chi phí cao và dữ liệu không đầy đủ như Shopee Food
-- **Foursquare API**: Dữ liệu hạn chế tại Việt Nam
-- **Zomato API**: Không còn hỗ trợ API công khai
-- **Manual data collection**: Không khả thi cho việc cập nhật dữ liệu thường xuyên
-
-## Bài học kinh nghiệm
-
-1. **Đánh giá tính khả thi về dữ liệu trước khi bắt đầu dự án**
-2. **Nghiên cứu kỹ các API có sẵn và chính sách sử dụng**
-3. **Cần có backup plan cho nguồn dữ liệu**
-4. **Cân nhắc về tính bền vững của nguồn dữ liệu**
-
-## Đóng góp
-
-Mặc dù dự án đã dừng phát triển, code vẫn được giữ lại như một tài liệu tham khảo cho những ai quan tâm đến:
-- Phân tích dữ liệu F&B
-- Xây dựng ứng dụng bản đồ
-- Thiết kế hệ thống phân tích đối thủ cạnh tranh
-
 ---
 
 **Liên hệ**: Nếu bạn có ý tưởng hoặc giải pháp để tiếp tục dự án này, vui lòng mở issue hoặc pull request.
