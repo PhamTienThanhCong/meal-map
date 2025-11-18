@@ -1,0 +1,1027 @@
+{
+  "reply": {
+    "delivery_infos": [
+      {
+        "total_order": 0,
+        "rating": {
+          "total_review": 1000,
+          "avg": 4.8,
+          "display_total_review": "999+",
+          "app_link": "foody://foody.vn?action=reviewlist&id=1172675"
+        },
+        "city_id": 218,
+        "phones": [
+          "0869967183"
+        ],
+        "restaurant_id": 1172675,
+        "restaurant_url": "bami-sot-banh-mi-den-luong-the-vinh",
+        "logo_mms_img_id": "vn-11134513-7ra0g-ma55sqxwigtka0",
+        "brand_id": 7469,
+        "is_open": false,
+        "contract_type": 1,
+        "id": 303857,
+        "location_url": "ha-noi",
+        "has_contract": true,
+        "is_quality_merchant": true,
+        "label": {
+          "photos": [
+            {
+              "width": 60,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w60",
+              "height": 0
+            },
+            {
+              "width": 120,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w120",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w180",
+              "height": 0
+            },
+            {
+              "width": 240,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w240",
+              "height": 0
+            },
+            {
+              "width": 280,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w280",
+              "height": 0
+            },
+            {
+              "width": 400,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w400",
+              "height": 0
+            },
+            {
+              "width": 600,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w600",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 750,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w750",
+              "height": 0
+            },
+            {
+              "width": 1242,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w1242",
+              "height": 0
+            }
+          ],
+          "mms_img_id": "vn-11134512-7r98o-luhn0s43cdglea",
+          "label_position": 1
+        },
+        "merchant_time": 10,
+        "categories": [
+          "Quán ăn"
+        ],
+        "cuisines": [],
+        "service_type": 1,
+        "url_rewrite_name": "bami-sot-banh-mi-den-luong-the-vinh",
+        "is_foody_delivery": true,
+        "rush_hour": [],
+        "brand": {
+          "rush_hour": [],
+          "promotion_title": "",
+          "name": "Bami Sot - Bánh Mì Sốt",
+          "photos": [],
+          "brand_id": 7469,
+          "operating": {
+            "status": 1,
+            "color": "#239839",
+            "close_time": "23:59:59",
+            "open_time": "00:00:01",
+            "text": {
+              "resource_name": "delivery_restaurant_opening"
+            }
+          },
+          "position": {},
+          "min_order_value": {},
+          "url_rewrite_name": "bami-sot-banh-mi-sot",
+          "price_range": {},
+          "restaurant_count": 29
+        },
+        "limit_distance": 3000,
+        "image_name": "foody-upload-api-foody-mobile-fo-a4734c46-230602122317.jpeg",
+        "restaurant_status": 2,
+        "campaigns": [],
+        "photos": [
+          {
+            "width": 60,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss60x60!@crop_w60_h60_cT",
+            "height": 60
+          },
+          {
+            "width": 120,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss120x120!@crop_w120_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss160x120!@crop_w160_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss160x160!@crop_w160_h160_cT",
+            "height": 160
+          },
+          {
+            "width": 180,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss180x180!@crop_w180_h180_cT",
+            "height": 180
+          },
+          {
+            "width": 240,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss240x240!@crop_w240_h240_cT",
+            "height": 240
+          },
+          {
+            "width": 280,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss280x175!@crop_w280_h175_cT",
+            "height": 175
+          },
+          {
+            "width": 400,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss400x216!@crop_w400_h216_cT",
+            "height": 216
+          },
+          {
+            "width": 600,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss600x324!@crop_w600_h324_cT",
+            "height": 324
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss640x400!@crop_w640_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss640x640!@crop_w640_h640_cT",
+            "height": 640
+          },
+          {
+            "width": 750,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss750x400!@crop_w750_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 1242,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsvbfffpnutg4c@resize_ss1242x600!@crop_w1242_h600_cT",
+            "height": 600
+          }
+        ],
+        "confirm_methods": {},
+        "address": "183 Lương Thế Vinh,  P. Trung Văn, Thanh Xuân, Hà Nội",
+        "name_en": "",
+        "foody_service_id": 1,
+        "min_order_value": {
+          "resource_name": "delivery_order_minimum",
+          "resource_args": [
+            "20k"
+          ]
+        },
+        "operating": {
+          "status": 2,
+          "next_available_time": "2025-11-19 05:58:00",
+          "busy_type": 1,
+          "title": "Ngoài giờ phục vụ của quán",
+          "color": "#D3D3D3",
+          "text": {
+            "resource_name": "delivery_restaurant_closed"
+          },
+          "note": {
+            "message": "Hẹn giao vào 05:58"
+          },
+          "message": "Quán sẽ mở cửa vào lúc 05:58 19/11/2025"
+        },
+        "name": "Bami Sot - Bánh Mì Đen - Lương Thế Vinh",
+        "promotion_groups": [
+          {
+            "group": 1,
+            "text": "Giảm món",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 5,
+            "id": 34524172,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          },
+          {
+            "group": 4,
+            "text": "Mã giảm 30k",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 1,
+            "id": 30246320,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          }
+        ],
+        "url": "https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-luong-the-vinh",
+        "display_order": 0,
+        "delivery_id": 303857,
+        "district_id": 29,
+        "is_pickup": false,
+        "banner_mms_img_id": "vn-11134513-7r98o-lsvbfffpnutg4c",
+        "price_range": {},
+        "position": {
+          "latitude": 20.99101795,
+          "is_verified": false,
+          "longitude": 105.79602065
+        },
+        "shipping_methods": [
+          1
+        ]
+      },
+      {
+        "total_order": 0,
+        "rating": {
+          "total_review": 1000,
+          "avg": 4.8,
+          "display_total_review": "999+",
+          "app_link": "foody://foody.vn?action=reviewlist&id=1115045"
+        },
+        "city_id": 218,
+        "phones": [
+          "0977976226"
+        ],
+        "restaurant_id": 1115045,
+        "restaurant_url": "bami-sot-banh-mi-den-vinhomes-ocean-park",
+        "logo_mms_img_id": "vn-11134513-7ra0g-ma7ttlsrltbseb",
+        "brand_id": 7469,
+        "is_open": false,
+        "contract_type": 1,
+        "id": 228284,
+        "location_url": "ha-noi",
+        "has_contract": true,
+        "is_quality_merchant": true,
+        "label": {
+          "photos": [
+            {
+              "width": 60,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w60",
+              "height": 0
+            },
+            {
+              "width": 120,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w120",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w180",
+              "height": 0
+            },
+            {
+              "width": 240,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w240",
+              "height": 0
+            },
+            {
+              "width": 280,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w280",
+              "height": 0
+            },
+            {
+              "width": 400,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w400",
+              "height": 0
+            },
+            {
+              "width": 600,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w600",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 750,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w750",
+              "height": 0
+            },
+            {
+              "width": 1242,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w1242",
+              "height": 0
+            }
+          ],
+          "mms_img_id": "vn-11134512-7r98o-luhn0s43cdglea",
+          "label_position": 1
+        },
+        "merchant_time": 5,
+        "categories": [
+          "Quán ăn"
+        ],
+        "cuisines": [],
+        "service_type": 1,
+        "url_rewrite_name": "bami-sot-banh-mi-den-vinhomes-ocean-park",
+        "is_foody_delivery": true,
+        "rush_hour": [],
+        "brand": {
+          "rush_hour": [],
+          "promotion_title": "",
+          "name": "Bami Sot - Bánh Mì Sốt",
+          "photos": [],
+          "brand_id": 7469,
+          "operating": {
+            "status": 1,
+            "color": "#239839",
+            "close_time": "23:59:59",
+            "open_time": "00:00:01",
+            "text": {
+              "resource_name": "delivery_restaurant_opening"
+            }
+          },
+          "position": {},
+          "min_order_value": {},
+          "url_rewrite_name": "bami-sot-banh-mi-sot",
+          "price_range": {},
+          "restaurant_count": 29
+        },
+        "limit_distance": 3000,
+        "image_name": "foody-upload-api-foody-mobile-cv-6e7cc119-211108110927.jpeg",
+        "restaurant_status": 2,
+        "campaigns": [],
+        "photos": [
+          {
+            "width": 60,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss60x60!@crop_w60_h60_cT",
+            "height": 60
+          },
+          {
+            "width": 120,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss120x120!@crop_w120_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss160x120!@crop_w160_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss160x160!@crop_w160_h160_cT",
+            "height": 160
+          },
+          {
+            "width": 180,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss180x180!@crop_w180_h180_cT",
+            "height": 180
+          },
+          {
+            "width": 240,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss240x240!@crop_w240_h240_cT",
+            "height": 240
+          },
+          {
+            "width": 280,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss280x175!@crop_w280_h175_cT",
+            "height": 175
+          },
+          {
+            "width": 400,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss400x216!@crop_w400_h216_cT",
+            "height": 216
+          },
+          {
+            "width": 600,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss600x324!@crop_w600_h324_cT",
+            "height": 324
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss640x400!@crop_w640_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss640x640!@crop_w640_h640_cT",
+            "height": 640
+          },
+          {
+            "width": 750,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss750x400!@crop_w750_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 1242,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv72mfgg3b8ec@resize_ss1242x600!@crop_w1242_h600_cT",
+            "height": 600
+          }
+        ],
+        "confirm_methods": {},
+        "address": "Nhà Dịch Vụ 01S16, Tòa S2.12, Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội",
+        "name_en": "",
+        "foody_service_id": 1,
+        "min_order_value": {
+          "resource_name": "delivery_order_minimum",
+          "resource_args": [
+            "20k"
+          ]
+        },
+        "operating": {
+          "status": 2,
+          "next_available_time": "2025-11-19 06:30:00",
+          "busy_type": 1,
+          "title": "Ngoài giờ phục vụ của quán",
+          "color": "#D3D3D3",
+          "text": {
+            "resource_name": "delivery_restaurant_closed"
+          },
+          "note": {
+            "message": "Hẹn giao vào 06:30"
+          },
+          "message": "Quán sẽ mở cửa vào lúc 06:30 19/11/2025"
+        },
+        "name": "Bami Sot - Bánh Mì Đen - Vinhomes Ocean Park",
+        "promotion_groups": [
+          {
+            "group": 1,
+            "text": "Giảm món",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 5,
+            "id": 34524177,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          },
+          {
+            "group": 4,
+            "text": "Mã giảm 30k",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 1,
+            "id": 30246320,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          }
+        ],
+        "url": "https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-vinhomes-ocean-park",
+        "display_order": 0,
+        "delivery_id": 228284,
+        "district_id": 678,
+        "is_pickup": false,
+        "banner_mms_img_id": "vn-11134513-7r98o-lsv72mfgg3b8ec",
+        "price_range": {},
+        "position": {
+          "latitude": 20.99201316,
+          "is_verified": false,
+          "longitude": 105.9440968
+        },
+        "shipping_methods": [
+          1
+        ]
+      },
+      {
+        "total_order": 0,
+        "rating": {
+          "total_review": 1000,
+          "avg": 4.8,
+          "display_total_review": "999+",
+          "app_link": "foody://foody.vn?action=reviewlist&id=1123628"
+        },
+        "city_id": 218,
+        "phones": [
+          "0911355188"
+        ],
+        "restaurant_id": 1123628,
+        "restaurant_url": "bami-sot-banh-mi-den-cau-coc",
+        "logo_mms_img_id": "vn-11134513-7ra0g-ma7tz3uhsbcz66",
+        "brand_id": 7469,
+        "is_open": false,
+        "contract_type": 1,
+        "id": 243778,
+        "location_url": "ha-noi",
+        "has_contract": true,
+        "is_quality_merchant": true,
+        "label": {
+          "photos": [
+            {
+              "width": 60,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w60",
+              "height": 0
+            },
+            {
+              "width": 120,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w120",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w180",
+              "height": 0
+            },
+            {
+              "width": 240,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w240",
+              "height": 0
+            },
+            {
+              "width": 280,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w280",
+              "height": 0
+            },
+            {
+              "width": 400,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w400",
+              "height": 0
+            },
+            {
+              "width": 600,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w600",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 750,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w750",
+              "height": 0
+            },
+            {
+              "width": 1242,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0s43cdglea@resize_w1242",
+              "height": 0
+            }
+          ],
+          "mms_img_id": "vn-11134512-7r98o-luhn0s43cdglea",
+          "label_position": 1
+        },
+        "merchant_time": 10,
+        "categories": [
+          "Quán ăn"
+        ],
+        "cuisines": [],
+        "service_type": 1,
+        "url_rewrite_name": "bami-sot-banh-mi-den-cau-coc",
+        "is_foody_delivery": true,
+        "rush_hour": [],
+        "brand": {
+          "rush_hour": [],
+          "promotion_title": "",
+          "name": "Bami Sot - Bánh Mì Sốt",
+          "photos": [],
+          "brand_id": 7469,
+          "operating": {
+            "status": 1,
+            "color": "#239839",
+            "close_time": "23:59:59",
+            "open_time": "00:00:01",
+            "text": {
+              "resource_name": "delivery_restaurant_opening"
+            }
+          },
+          "position": {},
+          "min_order_value": {},
+          "url_rewrite_name": "bami-sot-banh-mi-sot",
+          "price_range": {},
+          "restaurant_count": 29
+        },
+        "limit_distance": 3000,
+        "image_name": "foody-upload-api-foody-mobile-fo-4384b774-211230125058.jpeg",
+        "restaurant_status": 2,
+        "campaigns": [],
+        "photos": [
+          {
+            "width": 60,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss60x60!@crop_w60_h60_cT",
+            "height": 60
+          },
+          {
+            "width": 120,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss120x120!@crop_w120_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss160x120!@crop_w160_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss160x160!@crop_w160_h160_cT",
+            "height": 160
+          },
+          {
+            "width": 180,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss180x180!@crop_w180_h180_cT",
+            "height": 180
+          },
+          {
+            "width": 240,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss240x240!@crop_w240_h240_cT",
+            "height": 240
+          },
+          {
+            "width": 280,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss280x175!@crop_w280_h175_cT",
+            "height": 175
+          },
+          {
+            "width": 400,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss400x216!@crop_w400_h216_cT",
+            "height": 216
+          },
+          {
+            "width": 600,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss600x324!@crop_w600_h324_cT",
+            "height": 324
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss640x400!@crop_w640_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss640x640!@crop_w640_h640_cT",
+            "height": 640
+          },
+          {
+            "width": 750,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss750x400!@crop_w750_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 1242,
+            "value": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsv7puxibtllc4@resize_ss1242x600!@crop_w1242_h600_cT",
+            "height": 600
+          }
+        ],
+        "confirm_methods": {},
+        "address": "1 Cầu Cốc, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",
+        "name_en": "",
+        "foody_service_id": 1,
+        "min_order_value": {
+          "resource_name": "delivery_order_minimum",
+          "resource_args": [
+            "20k"
+          ]
+        },
+        "operating": {
+          "status": 2,
+          "next_available_time": "2025-11-19 06:00:00",
+          "busy_type": 1,
+          "title": "Ngoài giờ phục vụ của quán",
+          "color": "#D3D3D3",
+          "text": {
+            "resource_name": "delivery_restaurant_closed"
+          },
+          "note": {
+            "message": "Hẹn giao vào 06:00"
+          },
+          "message": "Quán sẽ mở cửa vào lúc 06:00 19/11/2025"
+        },
+        "name": "Bami Sot - Bánh Mì Đen - Cầu Cốc",
+        "promotion_groups": [
+          {
+            "group": 1,
+            "text": "Giảm món",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 5,
+            "id": 34524181,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          },
+          {
+            "group": 4,
+            "text": "Mã giảm 30k",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 1,
+            "id": 30246320,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          }
+        ],
+        "url": "https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-cau-coc",
+        "display_order": 0,
+        "delivery_id": 243778,
+        "district_id": 945,
+        "is_pickup": false,
+        "banner_mms_img_id": "vn-11134513-7r98o-lsv7puxibtllc4",
+        "price_range": {},
+        "position": {
+          "latitude": 21.0062896,
+          "is_verified": false,
+          "longitude": 105.7484086
+        },
+        "shipping_methods": [
+          1
+        ]
+      },
+      {
+        "total_order": 0,
+        "rating": {
+          "total_review": 500,
+          "avg": 4.9,
+          "display_total_review": "500+",
+          "app_link": "foody://foody.vn?action=reviewlist&id=1247865"
+        },
+        "city_id": 218,
+        "phones": [
+          "0986272486"
+        ],
+        "restaurant_id": 1247865,
+        "restaurant_url": "bami-sot-banh-mi-den-lac-long-quan",
+        "logo_mms_img_id": "vn-11134513-7ra0g-ma7wbauqbbugd0",
+        "brand_id": 7469,
+        "is_open": false,
+        "contract_type": 1,
+        "id": 394228,
+        "location_url": "ha-noi",
+        "has_contract": true,
+        "is_quality_merchant": true,
+        "label": {
+          "photos": [
+            {
+              "width": 60,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w60",
+              "height": 0
+            },
+            {
+              "width": 120,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w120",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 160,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w160",
+              "height": 0
+            },
+            {
+              "width": 180,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w180",
+              "height": 0
+            },
+            {
+              "width": 240,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w240",
+              "height": 0
+            },
+            {
+              "width": 280,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w280",
+              "height": 0
+            },
+            {
+              "width": 400,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w400",
+              "height": 0
+            },
+            {
+              "width": 600,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w600",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 640,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w640",
+              "height": 0
+            },
+            {
+              "width": 750,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w750",
+              "height": 0
+            },
+            {
+              "width": 1242,
+              "value": "https://mms.img.susercontent.com/vn-11134512-7r98o-luhn0r36syzp76@resize_w1242",
+              "height": 0
+            }
+          ],
+          "mms_img_id": "vn-11134512-7r98o-luhn0r36syzp76",
+          "label_position": 1
+        },
+        "merchant_time": 20,
+        "categories": [
+          "Quán ăn"
+        ],
+        "cuisines": [],
+        "service_type": 1,
+        "url_rewrite_name": "bami-sot-banh-mi-den-lac-long-quan",
+        "is_foody_delivery": true,
+        "rush_hour": [],
+        "brand": {
+          "rush_hour": [],
+          "promotion_title": "",
+          "name": "Bami Sot - Bánh Mì Sốt",
+          "photos": [],
+          "brand_id": 7469,
+          "operating": {
+            "status": 1,
+            "color": "#239839",
+            "close_time": "23:59:59",
+            "open_time": "00:00:01",
+            "text": {
+              "resource_name": "delivery_restaurant_opening"
+            }
+          },
+          "position": {},
+          "min_order_value": {},
+          "url_rewrite_name": "bami-sot-banh-mi-sot",
+          "price_range": {},
+          "restaurant_count": 29
+        },
+        "limit_distance": 3000,
+        "image_name": "foody-upload-api-foody-mobile-vn-11134513-7r98o-ls-250423164217.jpg",
+        "restaurant_status": 2,
+        "campaigns": [],
+        "photos": [
+          {
+            "width": 60,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss60x60!@crop_w60_h60_cT",
+            "height": 60
+          },
+          {
+            "width": 120,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss120x120!@crop_w120_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss160x120!@crop_w160_h120_cT",
+            "height": 120
+          },
+          {
+            "width": 160,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss160x160!@crop_w160_h160_cT",
+            "height": 160
+          },
+          {
+            "width": 180,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss180x180!@crop_w180_h180_cT",
+            "height": 180
+          },
+          {
+            "width": 240,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss240x240!@crop_w240_h240_cT",
+            "height": 240
+          },
+          {
+            "width": 280,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss280x175!@crop_w280_h175_cT",
+            "height": 175
+          },
+          {
+            "width": 400,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss400x216!@crop_w400_h216_cT",
+            "height": 216
+          },
+          {
+            "width": 600,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss600x324!@crop_w600_h324_cT",
+            "height": 324
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss640x400!@crop_w640_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 640,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss640x640!@crop_w640_h640_cT",
+            "height": 640
+          },
+          {
+            "width": 750,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss750x400!@crop_w750_h400_cT",
+            "height": 400
+          },
+          {
+            "width": 1242,
+            "value": "https://mms.img.susercontent.com/vn-11134259-7ra0g-m8x6uewu4mroa0@resize_ss1242x600!@crop_w1242_h600_cT",
+            "height": 600
+          }
+        ],
+        "confirm_methods": {},
+        "address": "244 Lạc Long Quân, P. Bưởi, Tây Hồ, Hà Nội",
+        "name_en": "",
+        "foody_service_id": 1,
+        "min_order_value": {
+          "resource_name": "delivery_order_minimum",
+          "resource_args": [
+            "20k"
+          ]
+        },
+        "operating": {
+          "status": 2,
+          "next_available_time": "2025-11-19 06:00:00",
+          "busy_type": 1,
+          "title": "Ngoài giờ phục vụ của quán",
+          "color": "#D3D3D3",
+          "text": {
+            "resource_name": "delivery_restaurant_closed"
+          },
+          "note": {
+            "message": "Hẹn giao vào 06:00"
+          },
+          "message": "Quán sẽ mở cửa vào lúc 06:00 19/11/2025"
+        },
+        "name": "Bami Sot - Bánh Mì Đen - Lạc Long Quân",
+        "promotion_groups": [
+          {
+            "group": 1,
+            "text": "Giảm món",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 5,
+            "id": 34524201,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          },
+          {
+            "group": 4,
+            "text": "Mã giảm 30k",
+            "browsing_icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32",
+            "mms_img_id": "vn-11134513-7r98o-ltm6izhd35sa32",
+            "discount_type": 1,
+            "id": 30246320,
+            "icon": "https://mms.img.susercontent.com/vn-11134513-7r98o-ltm6izhd35sa32"
+          }
+        ],
+        "url": "https://shopeefood.vn/ha-noi/bami-sot-banh-mi-den-lac-long-quan",
+        "display_order": 0,
+        "delivery_id": 394228,
+        "district_id": 28,
+        "is_pickup": false,
+        "banner_mms_img_id": "vn-11134259-7ra0g-m8x6uewu4mroa0",
+        "price_range": {},
+        "position": {
+          "latitude": 21.05413232,
+          "is_verified": false,
+          "longitude": 105.80906052
+        },
+        "shipping_methods": [
+          1
+        ]
+      }
+    ]
+  },
+  "result": "success"
+}

@@ -1,0 +1,162 @@
+{
+  "reply": {
+    "is_alcoholic_keyword": false,
+    "search_result": [
+      {
+        "service_type": 1,
+        "restaurant_ids": [
+          1172675,
+          1115045,
+          1123628,
+          1247865,
+          1038918,
+          1133480,
+          1198813,
+          1186525,
+          1026334,
+          1049174,
+          1026418,
+          1046886,
+          776985,
+          1076803,
+          1115048,
+          1184840,
+          739333,
+          1236477,
+          1133482,
+          1120686,
+          1201931,
+          1031470,
+          1172316,
+          1026414,
+          1120682,
+          1259688,
+          1132538,
+          1120801,
+          1115046
+        ],
+        "total_items": 29,
+        "foody_service": 1,
+        "restaurants": [
+          {
+            "restaurant_id": 1172675,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1115045,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1123628,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1247865,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1038918,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1133480,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1198813,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1186525,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1026334,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1049174,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1026418,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1046886,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 776985,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1076803,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1115048,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1184840,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 739333,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1236477,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1133482,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1120686,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1201931,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1031470,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1172316,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1026414,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1120682,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1259688,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1132538,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1120801,
+            "dish_ids": []
+          },
+          {
+            "restaurant_id": 1115046,
+            "dish_ids": []
+          }
+        ]
+      }
+    ]
+  },
+  "result": "success"
+}
